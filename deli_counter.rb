@@ -24,6 +24,7 @@ def line(katz_deli)
     end
     new_line
   end
+
 end
 
 def take_a_number(array, string)
